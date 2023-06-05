@@ -1,4 +1,3 @@
-# Gun-Shame
 <!DOCTYPE html>
 <html>
 <head>
